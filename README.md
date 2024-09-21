@@ -15,6 +15,9 @@ This is the official implementation of "SAWL-Net: A Statistical Attentions and W
 
 ## Results
 
+### GradCAMs
+![gradcam](https://github.com/user-attachments/assets/9aed3f7b-9d9e-4887-838f-2f0ab39582e0)
+
 ### Activation maps
 ![activation](https://github.com/user-attachments/assets/4eae2762-a22f-456f-bec3-dadece221113)
 
